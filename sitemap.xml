@@ -44,14 +44,6 @@
     
     
     <url>
-      <loc>https://yuan-yao-cfd.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>https://yuan-yao-cfd.github.io/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -108,6 +100,13 @@
     
     
     <url>
+      <loc>https://yuan-yao-cfd.github.io/project/deep-learning/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://yuan-yao-cfd.github.io/publication_types/1/</loc>
       <lastmod>2016-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -128,15 +127,6 @@
     <url>
       <loc>https://yuan-yao-cfd.github.io/tags/academic/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://yuan-yao-cfd.github.io/tags/cfd-modeling/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
