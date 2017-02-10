@@ -11,6 +11,20 @@
     <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Isuzu Full Vehicle Cooling system modeling - 3D CFD modeling</title>
+      <link>https://yuan-yao-cfd.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuan-yao-cfd.github.io/project/deep-learning/</guid>
+      <description>&lt;p&gt;Isuzu is continuously moving more and more towards virtual calibration and model based development. As part of this process, having a predictive cooling system model of a vehicle is fundamental. A predictive model of the cooling system will not only enable us to understand how it behaves under real operating conditions, but improve the boundary conditions we use to model other aspects of the powertrain and vehicle.&lt;/p&gt;
+
+&lt;p&gt;The student team will develop and complete 1D and 3D vehicle cooling system models for Isuzu’s Model Based Engine Development. Once validated the model will used for analytic sizing of coolant pumps and radiators, predicting heat rejection for the engine cylinder and thermal analysis of full vehicle cooling system.&lt;/p&gt;
+
+&lt;p&gt;The predictive cooling system model will be an indispensable component of Isuzu full vehicle model based system. The full vehicle system will be used for Isuzu engine virtual calibration and full vehicle model based development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Particle laden flow</title>
       <link>https://yuan-yao-cfd.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -25,60 +39,6 @@
 &lt;p&gt;It is of our interest to extend the P3M method to problem with complex geometries by not relying on the FFT. Recent literature has reported a so-called &amp;ldquo;hybrid method&amp;rdquo; where FFT is avoided for long range force calculation with the same computational cost. Last semester, the hybrid method has already been implemented and compared with the P3M method and other techniques to test its accuracy and computational efficiency.&lt;/p&gt;
 
 &lt;p&gt;After the hybrid method being implemented and verified, we are interested in applying these particle methods to complex flow conditions where turbulent particle-laden flow interacts with electrically charged particles to investigate how the charged particles will influence flow dynamics and even phase change. To start with, the computing schemes written in Python will be integrated into the electrostatic part of a comprehensive CFD code called “NGA”. Once the electrostatic part is verified and becomes functional, we will either apply it to homogeneous isotropic turbulence (3D triply periodic) or a sedimenting bed which requires non-periodic particle methods.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yuan-yao-cfd.github.io/project/deep-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yuan-yao-cfd.github.io/project/deep-learning/</guid>
-      <description>
-
-&lt;p&gt;≈+++&lt;/p&gt;
-
-&lt;h1 id=&#34;date-this-page-was-created&#34;&gt;Date this page was created.&lt;/h1&gt;
-
-&lt;p&gt;date = &amp;ldquo;2016-04-27&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;project-title&#34;&gt;Project title.&lt;/h1&gt;
-
-&lt;p&gt;title = &amp;ldquo;Isuzu Full Vehicle Cooling system modeling - 3D CFD modeling&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;project-summary-to-display-on-homepage&#34;&gt;Project summary to display on homepage.&lt;/h1&gt;
-
-&lt;p&gt;summary = &amp;ldquo;Use Converge to model and simulate the heat transfer and pressure drop for cooling system components.&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;optional-image-to-display-on-homepage-relative-to-static-img-folder&#34;&gt;Optional image to display on homepage (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;bubbles.jpg&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;optional-image-to-display-on-project-detail-page-relative-to-static-img-folder&#34;&gt;Optional image to display on project detail page (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
-
-&lt;p&gt;image = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;tags-can-be-used-for-filtering-projects&#34;&gt;Tags: can be used for filtering projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;example-tags-machine-learning-deep-learning&#34;&gt;Example: &lt;code&gt;tags = [&amp;quot;machine-learning&amp;quot;, &amp;quot;deep-learning&amp;quot;]&lt;/code&gt;&lt;/h1&gt;
-
-&lt;p&gt;tags = [&amp;ldquo;MDP&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project detail page).&lt;/h1&gt;
-
-&lt;p&gt;external_link = &amp;ldquo;&lt;a href=&#34;http://mdp.engin.umich.edu/wp-content/uploads/2016/06/2017-Isuzu-2.pdf&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://mdp.engin.umich.edu/wp-content/uploads/2016/06/2017-Isuzu-2.pdf&amp;quot;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-project-detail-page-use-math-formatting&#34;&gt;Does the project detail page use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = false&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
-
-&lt;p&gt;Isuzu is continuously moving more and more towards virtual calibration and model based development. As part of this process, having a predictive cooling system model of a vehicle is fundamental. A predictive model of the cooling system will not only enable us to understand how it behaves under real operating conditions, but improve the boundary conditions we use to model other aspects of the powertrain and vehicle.&lt;/p&gt;
-
-&lt;p&gt;The student team will develop and complete 1D and 3D vehicle cooling system models for Isuzu’s Model Based Engine Development. Once validated the model will used for analytic sizing of coolant pumps and radiators, predicting heat rejection for the engine cylinder and thermal analysis of full vehicle cooling system.&lt;/p&gt;
-
-&lt;p&gt;The predictive cooling system model will be an indispensable component of Isuzu full vehicle model based system. The full vehicle system will be used for Isuzu engine virtual calibration and full vehicle model based development.&lt;/p&gt;
 </description>
     </item>
     
