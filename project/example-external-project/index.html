@@ -38,7 +38,7 @@
 
   
 
-  <title>External Project | Computing Changes the World</title>
+  <title>Particle laden flow | Computing Changes the World</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -148,7 +148,7 @@
     
 
     <div class="pub-title">
-      <h1 itemprop="name">External Project</h1>
+      <h1 itemprop="name">Particle laden flow</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="pull-right">
         
@@ -163,28 +163,28 @@
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=External%20Project&amp;url=https%3a%2f%2fyuan-yao-cfd.github.io%2fproject%2fexample-external-project%2f"
+         href="https://twitter.com/intent/tweet?text=Particle%20laden%20flow&amp;url=https%3a%2f%2fyuan-yao-cfd.github.io%2fproject%2fexample-external-project%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyuan-yao-cfd.github.io%2fproject%2fexample-external-project%2f&amp;title=External%20Project"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyuan-yao-cfd.github.io%2fproject%2fexample-external-project%2f&amp;title=Particle%20laden%20flow"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyuan-yao-cfd.github.io%2fproject%2fexample-external-project%2f&amp;title=External%20Project"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyuan-yao-cfd.github.io%2fproject%2fexample-external-project%2f&amp;title=Particle%20laden%20flow"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=External%20Project&amp;body=https%3a%2f%2fyuan-yao-cfd.github.io%2fproject%2fexample-external-project%2f">
+         href="mailto:?subject=Particle%20laden%20flow&amp;body=https%3a%2f%2fyuan-yao-cfd.github.io%2fproject%2fexample-external-project%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -196,11 +196,20 @@
     </div>
 
     
-    <a class="btn btn-primary btn-outline" href="http://example.org" target="_blank">Go to Project Site</a>
+    <a class="btn btn-primary btn-outline" href="http://www.jessecaps.com/" target="_blank">Go to Project Site</a>
     
 
     <div class="article-style" itemprop="articleBody">
-      
+      <p>Non-trivial interactions between electrically-charged particles and turbulence can have important effects in many engineering and environmental flows, including atmospheric clouds, colloids, electrosprays, and protoplanetary nebula (dusty plasma). </p>
+
+<p>We are interested in particle-laden turbulent flows where particles experience long-range interactions such as electrostatic forces. Due to the long-range nature of electrostatic forces, it is challenging to compute the coulomb interactions in system with charged particles that avoid N^2 computations, especially when the applications of interest involve a large number of particles.</p>
+
+<p>Many existing computing schemes reduce the computational cost by calculating the long range forces in Fourier space. For example, the Particle-Particle-Particle-Mesh (P3M) Method splits long range and short range forces by introducing a cut-off radius to compute the long range forces efficiently, however, it requires Fast Fourier Transform (FFT) to solve long range force which is restricted to simple periodic boundaries only.</p>
+
+<p>It is of our interest to extend the P3M method to problem with complex geometries by not relying on the FFT. Recent literature has reported a so-called &ldquo;hybrid method&rdquo; where FFT is avoided for long range force calculation with the same computational cost. Last semester, the hybrid method has already been implemented and compared with the P3M method and other techniques to test its accuracy and computational efficiency.</p>
+
+<p>After the hybrid method being implemented and verified, we are interested in applying these particle methods to complex flow conditions where turbulent particle-laden flow interacts with electrically charged particles to investigate how the charged particles will influence flow dynamics and even phase change. To start with, the computing schemes written in Python will be integrated into the electrostatic part of a comprehensive CFD code called “NGA”. Once the electrostatic part is verified and becomes functional, we will either apply it to homogeneous isotropic turbulence (3D triply periodic) or a sedimenting bed which requires non-periodic particle methods.</p>
+
     </div>
   </article>
 
@@ -212,7 +221,7 @@
     
 
     
-    <li class="next"><a href="https://yuan-yao-cfd.github.io/project/deep-learning/">Deep Learning <span
+    <li class="next"><a href="https://yuan-yao-cfd.github.io/project/deep-learning/">Isuzu Full Vehicle Cooling system modeling - 3D CFD modeling <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
