@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computing Changes the World</title>
-    <link>http://yuan-yao-cfd.github.io/</link>
+    <link>yuan-yao-cfd.github.io/</link>
     <description>Recent content on Computing Changes the World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://yuan-yao-cfd.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="yuan-yao-cfd.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Biography</title>
-      <link>http://yuan-yao-cfd.github.io/about/</link>
+      <link>yuan-yao-cfd.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yuan-yao-cfd.github.io/about/</guid>
+      <guid>yuan-yao-cfd.github.io/about/</guid>
       <description>Yuan Yao is a final year Ph.D. student at University of Michigan, Ann Arbor and has joined Capecelatro Research Group since August 2016. He holds a Bachelor&amp;rsquo;s degree in Mechanical Engineering from the Hong Kong University of Science and Technology. Currently, his research focus is on numerical modeling and algorithm developments for the transport and deposition of fine particulates in turbulence, especially in the presence of cohesive forces such as electrostatics and van der Waals, which also involve reduced-order modeling and uncertainty quantification.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://yuan-yao-cfd.github.io/contact/</link>
+      <link>yuan-yao-cfd.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yuan-yao-cfd.github.io/contact/</guid>
+      <guid>yuan-yao-cfd.github.io/contact/</guid>
       <description> Number: 734-239-3424 Email: yyaoaa@umich.edu Office: 2016 W. E. Lay Automotive Lab, Ann Arbor, MI 48109-2133  </description>
     </item>
     
     <item>
       <title>Gallery</title>
-      <link>http://yuan-yao-cfd.github.io/gallery/</link>
+      <link>yuan-yao-cfd.github.io/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yuan-yao-cfd.github.io/gallery/</guid>
+      <guid>yuan-yao-cfd.github.io/gallery/</guid>
       <description>  Pictures        	 Videos     </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://yuan-yao-cfd.github.io/projects/</link>
+      <link>yuan-yao-cfd.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yuan-yao-cfd.github.io/projects/</guid>
+      <guid>yuan-yao-cfd.github.io/projects/</guid>
       <description>Modal Analysis of High-altitude Stratified Sheared Atmospheric Turbulence  Formulated a new temperature treatment that decomposes temperature fluctuation from the mean gradient. Performed large LES simulations of stratified sheared troposphere turbulence at 6 km with Re= 1500 Developed and implemented a parallelized scalable DMD tool applicable to large atmosphere dataset. Performed DMD modal analysis on high-altitude atmospheric turbulence and identified key coherent structures.   Electrohydrodynamic (EHD) Generation of Atmospheric Turbulence  Performed linear stability analysis of ionized troposphere turbulence in the presence of EHD force.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://yuan-yao-cfd.github.io/publications/</link>
+      <link>yuan-yao-cfd.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yuan-yao-cfd.github.io/publications/</guid>
+      <guid>yuan-yao-cfd.github.io/publications/</guid>
       <description>Journal Publications:  Y.Yao, J.Capecelatro. (2020) Deagglomeration of cohesive particles by turbulence, Journal of Fluid Mechanics. Under review. Y.Yao, J.Capecelatro. (2019) Electrohydrodynamic generation of atmospheric turbulence, Physical Review Fluids. 4, 1-19. Y.Yao, J.Capecelatro. (2018) Competition between drag and Coulomb interactions in turbulent particle-laden flows using a coupled-fluid-Ewald-summation approach, Physical Review Fluids. 3, 1–20. H.Zhou, Y.Yao, Q.Chen, G.Li, S.Yao. (2013) A facile microfluidic strategy for measuring interfacial tension. Applied Physics Letters 103 (23), 234102.</description>
     </item>
     
